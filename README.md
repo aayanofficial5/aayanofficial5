@@ -1,5 +1,27 @@
 # 💫 About Me:
-🔭 **What I’m Working On:**<br>- Exploring the world of **Backend development** and mastering REST APIs.<br>- Strengthening my grasp of **DSA** to excel in upcoming placement opportunities.<br>- Developing a **React.js project** to enhance my front-end skills and build dynamic, interactive user interfaces.<br><br>👯 **Looking to Collaborate On:**<br>- **Full-stack projects** using **MERN stack** (MongoDB, Express.js, React.js, Node.js) with a focus on scalability and performance.<br>- Open-source contributions that align with web technologies and backend frameworks.<br><br>🌱 **Currently Learning:**<br>- Backend frameworks like **Express.js** and diving into database management with **MongoDB**.<br>- Exploring cloud technologies to enhance deployment and scalability.<br><br>💬 **Ask Me About:**<br>- Building web applications with **HTML, CSS, JavaScript**, and adding interactivity with **React.js**.<br>- My journey of mastering **DSA** and preparing for placements.<br>- Backend development using **Node.js, Express.js, and MongoDB**.<br><br>⚡ **Fun Fact:**<br>Like debugging code, I love analyzing complex storylines in anime and manhwa. Nothing beats a good plot twist!
+
+🔭 **What I’m Working On:**<br>
+- Building scalable **backend APIs** using **Express.js** and **MongoDB**.<br>
+- Strengthening my command over **Data Structures & Algorithms (DSA)** to crack high-package placement offers.<br>
+- Creating interactive and modern UI components using **React.js** and **Redux Toolkit**.<br><br>
+
+👯 **Looking to Collaborate On:**<br>
+- **Full-stack MERN stack** projects focused on real-world use cases, scalability, and clean code architecture.<br>
+- **Open-source contributions** related to backend systems, developer tools, or EdTech platforms like **KnowGeek**.<br><br>
+
+🌱 **Currently Learning:**<br>
+- Advanced backend concepts like **JWT authentication**, **middleware**, and **API security best practices**.<br>
+- Exploring **cloud platforms** such as **Render**, **Vercel**, and **Docker** for seamless deployment and CI/CD.<br>
+- Diving deep into **Redux Toolkit** for efficient and scalable state management in React applications.<br><br>
+
+💬 **Ask Me About:**<br>
+- Creating full-fledged web apps with **HTML, CSS, JavaScript**, and modern tools like **React.js**.<br>
+- How I’m preparing for placements by mastering **DSA**, system design basics, and real projects.<br>
+- Backend engineering with **Node.js**, **Express.js**, **MongoDB**, and deployment strategies.<br><br>
+
+⚡ **Fun Fact:**<br>
+Like debugging code, I love diving into complex storylines in anime and manhwa — especially when there’s a brilliant plot twist!
+
 
 
 ## 🌐 Socials:
