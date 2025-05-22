@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋%2C+I'm+Aayan" alt="Typing SVG" />
+</h1>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aayanofficial5&label=Profile%20Views&color=0e75b6&style=flat)
 
 # 💫 About Me:
