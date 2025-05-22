@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=aayanofficial5&label=Profile%20Views&color=0e75b6&style=flat)
+
 # 💫 About Me:
 
 🔭 **What I’m Working On:**<br>
